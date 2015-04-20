@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 3 candd candd 4096 Apr 20 10:04 .
+drwxr-xr-x 3 candd candd 4096 Apr 20 10:04 ..
+drwxr-xr-x 8 candd candd 4096 Apr 20 10:04 .git
+-rw-r--r-- 1 candd candd   18 Apr 20 10:04 README.md
+-rw-r--r-- 1 candd candd    0 Apr 20 10:04 test.txt
